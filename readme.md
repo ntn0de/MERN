@@ -7,4 +7,4 @@
 * `npm run prod`
 
 ## Setup (MongoDB) >Coming Soon
-## Postman Instructions >Coming Soon
+## API Documentation : https://documenter.getpostman.com/view/8128532/UVsSNiyd 
