@@ -9,3 +9,6 @@
 
 ## Setup (MongoDB) >Coming Soon
 ## API Documentation : https://documenter.getpostman.com/view/8128532/UVsSNiyd 
+## Deployment:
+### Heroku:
+`git push heroku master`
